@@ -6,10 +6,10 @@
         <changefreq>monthly</changefreq>
         <priority>0.99</priority>
     </url>
-    <url>
+    <!-- <url>
         <loc>https://magdalenasabat.github.io/wiki/</loc>
         <lastmod>2023-07-23T12:00:00+00:00</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.8</priority>
-    </url>
+    </url> -->
 </urlset>
