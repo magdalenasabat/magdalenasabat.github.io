@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Research
+title: research
 permalink: /research/
+nav_order: 1
 ---
 
 #### Project 1
