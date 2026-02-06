@@ -198,6 +198,8 @@ pre {
 .icon > svg {
   display: inline-block;
   vertical-align: middle;
+  width: 16px;   /* or 20px, 24px, etc */
+  height: 16px;
 
   path {
     fill: $grey-color;
