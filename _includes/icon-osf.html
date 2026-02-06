@@ -1,1 +1,7 @@
-<a href="https://osf.io/user/{{ include.username }}"><span class="icon icon--osf">{% include icon-osf.svg %}</span><span class="username">{{ include.username }}</span></a>
+<a href="https://osf.io/{{ include.username }}"
+   aria-label="OSF profile {{ include.username }}"
+   title="OSF: {{ include.username }}">
+  <span class="icon icon--osf" aria-hidden="true">
+    {% include icon-osf.svg %}
+  </span>
+</a>

@@ -1,1 +1,7 @@
-<a href="https://scholar.google.com/citations?user={{ include.username }}"><span class="icon icon--gs">{% include icon-gs.svg %}</span><span class="username">{{ include.username }}</span></a>
+<a href="https://scholar.google.com/citations?user={{ include.username }}"
+   aria-label="Google Scholar profile {{ include.username }}"
+   title="Google Scholar: {{ include.username }}">
+  <span class="icon icon--gs" aria-hidden="true">
+    {% include icon-gs.svg %}
+  </span>
+</a>

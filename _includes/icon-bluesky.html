@@ -1,1 +1,6 @@
-<a href="https://bsky.app/profile/{{ include.username }}"><span class="icon icon--bluesky">{% include icon-bluesky.svg %}</span><span class="username">{{ include.username }}</span></a>
+<a href="https://bsky.app/profile/{{ include.username }}"
+   aria-label="Bluesky profile {{ include.username }}">
+  <span class="icon icon--bluesky" aria-hidden="true">
+    {% include icon-bluesky.svg %}
+  </span>
+</a>
