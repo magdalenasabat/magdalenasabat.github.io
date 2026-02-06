@@ -33,6 +33,23 @@
             {% include icon-bluesky.html username=site.bluesky_username %}
           </li>
           {% endif %}
+
+          {% if site.google_scholar %}
+          <li>
+            {% include icon-gs.html username=site.gs_username %}
+          </li>
+          {% endif %}
+          {% if site.OSF_username %}
+          <li>
+            {% include icon-osf.html username=site.OSF_username %}
+          </li>
+          {% endif %}
+          
+          {% if site.orcid_username %}
+          <li>
+            {% include icon-orcid.html username=site.orcid_username %}
+          </li>
+          {% endif %}
         </ul>
       </div>
 
