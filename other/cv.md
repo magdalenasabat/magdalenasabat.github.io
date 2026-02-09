@@ -1,10 +1,7 @@
 ---
 layout: page
-title: research
-permalink: /research/
-nav_order: 1
+title: Pre-BDSM meeting: Cognitive Science for climate 
 ---
-IN CONSTRUCTION [.](.)
 
 #### Project 1
 Description
