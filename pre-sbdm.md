@@ -29,7 +29,7 @@ We envision this meeting will bring together researchers from cognitive (neuro)s
 16:30 - 17:00, drinks <br>
 
 ## Participants
-The even is free but we ask interested participants to register at [](). 
+The even is free but we ask interested participants to register at [x](x). 
 
 ##### CONFIRMED
 * Anne Urai, Leiden University
