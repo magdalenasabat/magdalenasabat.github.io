@@ -7,13 +7,6 @@ nav: false
 ![image](other/logo.png)
 
 ## Descritpion
-**Organising Committee**: <br>
-[Magdalena Sabat](https://magdalenasabat.github.io) (University of Leiden & University of Amsterdam)<br>
-Ali Shiravand (ENS)<br>
-[Anne Urai](https://anneurai.net) (University of Leiden)<br>
-[Stefano Palminteri](https://sites.google.com/site/stefanopalminteri/) (ENS)<br>
-
-
 This one-day seminar will bring together researchers from cognitive (neuro)science, social psychology, behavioral science, and computational modelling to explore cognitively informed models of decision-making applied to sustainability and climate action.
 We’re planning to focus on decision sciences, both individual and collective, and behavior change. At the end of the day we’re planning a panel focused on how cognitive science can inform behavioral change sciences.
 
@@ -63,4 +56,11 @@ The even is free but we ask interested participants to [register](https://www.ev
 * Stefano Palminteri, ENS Paris
 
 * Ali Shiravand, ENS Paris
+
+
+**Organising Committee**: <br>
+[Magdalena Sabat](https://magdalenasabat.github.io) (University of Leiden & University of Amsterdam)<br>
+Ali Shiravand (ENS)<br>
+[Anne Urai](https://anneurai.net) (University of Leiden)<br>
+[Stefano Palminteri](https://sites.google.com/site/stefanopalminteri/) (ENS)<br>
 
