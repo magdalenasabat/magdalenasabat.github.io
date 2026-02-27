@@ -57,6 +57,10 @@ The even is free but we ask interested participants to [register](https://www.ev
 
 * Ali Shiravand, ENS Paris
 
+* Aurore Grandin, ENS Paris
+
+* Lucia Bosone, Université Gustave Eiffel and Université Paris Cité
+
 
 **Organising Committee**: <br>
 [Magdalena Sabat](https://magdalenasabat.github.io) (University of Leiden & University of Amsterdam)<br>
