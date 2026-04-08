@@ -9,7 +9,7 @@ nav: false
 ## Descritpion
 This one-day seminar brings together researchers from cognitive (neuro)science, social psychology, behavioral science, and computational modelling to explore how cognitively informed models of decision-making can advance sustainability and climate action.
 
-The program features keynote talks in the morning, followed by flash talks and facilitated group discussions in the afternoon designed to spark collaborations and build connections across disciplines.
+The program features keynote talks in the morning, followed by flash talks and facilitated group discussions in the afternoon designed to spark collaborations and build connections across disciplines. If you're interested in participating in the afternoon panel, please contact the organisers. 
 
 This meeting is a pre-conference seminar in relation to [SBDM](https://sbdm2026.sciencesconf.org).
 
@@ -50,7 +50,10 @@ This meeting is a pre-conference seminar in relation to [SBDM](https://sbdm2026.
 
 *12:30 - 14:30, lunch break <br>*
 
-&nbsp;&nbsp;&nbsp;&nbsp; ** Flash talks**<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; **  Flash talks **<br>
+*If you're interested in participating in the afternoon panel, please contact the organisers.* 
+
 14:30 ~ 15:30, Flash talks <br>
 15:30 - 16:30, Facilitated group discussions / collaborations hackaton <br>
 
@@ -60,7 +63,6 @@ This meeting is a pre-conference seminar in relation to [SBDM](https://sbdm2026.
 ## Participants
 The even is free but we ask interested participants to [register](https://www.eventbrite.com/e/billets-decision-making-science-for-climate-change-and-sustainability-1983064682849?aff=oddtdtcreator). 
 
-If you're interested in presenting a flash talk in the afternoon, please contact the organisers. 
 
 ##### CONFIRMED
 * Anne Urai, Leiden University
