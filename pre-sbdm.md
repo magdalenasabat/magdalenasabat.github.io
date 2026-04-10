@@ -51,13 +51,8 @@ This meeting is a pre-conference seminar in relation to [SBDM](https://sbdm2026.
 *12:30 - 14:30, lunch break <br>*
 
 
-&nbsp;&nbsp;&nbsp;&nbsp; **  Flash talks **<br>
-*If you're interested in participating in the afternoon panel, please contact the organisers.* 
+*The afternoon panel is closed. If you're interested in participating, please contact the organisers.* 
 
-14:30 ~ 15:30, Flash talks <br>
-15:30 - 16:30, Facilitated group discussions / collaborations hackaton <br>
-
-*16:30, Final remarks<br>*
 
 
 ## Participants
