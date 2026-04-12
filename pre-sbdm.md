@@ -24,16 +24,6 @@ This meeting is a pre-conference seminar in relation to [SBDM](https://sbdm2026.
 9:30, Introduction & Welcome (Anne Urai) <br>
 9:40 - 12:30, Keynote talks
 
-9:00 coffee, walk-in
-	9:30 intro/welcome (3 minutes)
-	9:40 four talks of 25+5 minutes and two flashtalks of 10min
-		Individual level: Stefano or Melusine (tbd); Aurore; Ali
-	Coffee break, 15 minutes
-		Collective level: Lucia; Amaury; Magdalena
-	12:30 lunch with speakers and our labs
-	14:30 resume: half an hour of flashtalks, then facilitated group discussions. 
-	16:30 go for drinks
-
 &nbsp;&nbsp;&nbsp;&nbsp; **Individual decision making**<br>
 9:40 - 10:10, Stefano Palminteri <br> 
 10:10 - 10:40, Aurore Grandin <br>
