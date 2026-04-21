@@ -4,7 +4,7 @@ title:
 permalink: "/pre-sbdm"
 nav: false 
 ---
-![image](other/logo.png)
+![image](other/Poster_CogSciClimate2026.pdf)
 
 ## Descritpion
 This one-day seminar brings together researchers from cognitive (neuro)science, social psychology, behavioral science, and computational modelling to explore how cognitively informed models of decision-making can advance sustainability and climate action.
